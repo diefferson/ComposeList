@@ -10,4 +10,4 @@ The purpose of this project is to show a simple list using Jetpack Compose witho
 
 
 ## Video
-[![Video Sample]()](list.mp4)
+<img src="list.mp4">
